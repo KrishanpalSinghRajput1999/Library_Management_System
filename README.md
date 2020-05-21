@@ -2,7 +2,7 @@
 The project "Library Management System" made in JAVA.
 
 
-Description and Constrainsts.
+Description and Constraints.
 
 1.Array list containing Book objects where each book has attributes title, author, book id and cost.
 
